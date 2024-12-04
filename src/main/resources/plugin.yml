@@ -1,0 +1,30 @@
+name: StarterProject
+version: "${version}" # Change version in build.gradle.kts of your root project. This will automatically inherit it from there.
+description: Your Description of Your project
+api-version: 1.13
+#depend:
+#  - YourDependentPlugin1
+#  - YourDependentPlugin2
+#softdepend:
+#  - YourSoftDependentPlugin1
+#  - YourSoftDependentPlugin2
+authors:
+  - You
+main: change.me.StarterProject.StarterProject
+#commands:
+#  yourcommand:
+#    aliases:
+#      - youraliases
+#      - youraliases2
+#    description: Your description
+#    permission: your.permision.node
+#    permission-message: YOU are not allowed to use this
+#    usage: /yourcommand <your_argument1> <your_argument2>
+#
+#permissions:
+#  your:
+#    description: Your permission description
+#    children:
+#      - yourchildrennode1
+#      - yourchildrennode2
+#    default: false, not op, op, true
